@@ -1,21 +1,14 @@
-# FastShell
-[![Build Status](https://travis-ci.org/HosseinKarami/fastshell.png?branch=master)](https://travis-ci.org/HosseinKarami/fastshell)
+# Portfolio Site of William Ferrufino
 
-inspired by [FireShell](http://getfireshell.com)
-Fiercely quick front-end boilerplate and workflows.
 
-The opinionated FastShell framework. Built for the modern developer. For teams and the individual, encouraging a better workflow. JavaScript task running, build processes, autominification and file concatenation, wrapped with an enhanced HTML5 boilerplated framework.
-
-* Source: [github.com/HosseinKarami/fastshell](http://github.com/HosseinKarami/fastshell)
-* Documentation: [DOCS.md](https://github.com/HosseinKarami/fastshell/blob/master/DOCS.md)
-* HomePage: [Fastshell](https://HosseinKarami.github.io/fastshell)
-
+Front End Web Developer / Designer [William Ferrufino](willferrufino.github.io)
+From Austin, Texas
 
 ## License
 
 #### The MIT License (MIT)
 
-Copyright (c) FastShell
+Copyright (c) William Ferrufino
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
