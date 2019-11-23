@@ -1,0 +1,224 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Slab|Roboto|Solway:400,500,700&display=swap");
+
+@import "colors.scss";
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+html {
+  font-size: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #fff;
+}
+
+.wrapper {
+  margin: auto;
+  max-width: 75rem;
+}
+
+main,
+header,
+section,
+aside,
+footer {
+  margin: 0;
+  color: $black;
+}
+
+main {
+  background: #fff;
+}
+
+// Header
+header {
+  height: auto;
+  padding: 1em;
+  margin-bottom: 0.5em;
+  background: $white;
+  border-bottom: 1px solid $lightOrange;
+  display: flex;
+
+  .logo {
+    position: relative;
+    display: flex;
+    flex: 1 1 0px;
+
+    img {
+      // width: 22em;
+      width: auto;
+      height: 5.2em;
+    }
+  }
+
+  // Navigation
+  .navigation {
+    position: relative;
+    display: flex;
+    flex: 1 1 0px;
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      float: left;
+    }
+
+    li a {
+      display: block;
+      color: $chili;
+      text-align: center;
+      padding: 16px;
+      text-decoration: none;
+      font-size: 1em;
+      font-family: "Solway", serif;
+    }
+
+    li a:hover {
+      color: $lightOrange;
+    }
+  }
+
+  h4,
+  h5 {
+    color: $black;
+    margin: 0;
+    padding: 0;
+  }
+  h4 {
+    font-weight: 700;
+    font-size: 2em;
+  }
+  h5 {
+    font-size: 1em;
+    font-weight: 400;
+    font-family: "Alata", sans-serif;
+  }
+}
+
+.hero {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../images/hero-citrus.png);
+  background-size: cover;
+  background-position: right 20px bottom 70px;
+  background-repeat: repeat-x;
+  text-align: center;
+  margin-top: -20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  div.heroWrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: -20em;
+
+    h1 {
+      font-family: "Solway", serif;
+      font-size: 4em;
+      display: block;
+      color: #ea2149;
+      margin: 0 0 0.2em 0;
+      padding: 0;
+    }
+
+    h3 {
+      font-size: 2em;
+      font-family: "Josefin Slab", serif;
+      display: block;
+      line-height: 1.5em;
+      color: #f9a319;
+      margin: 0 0 1em 0;
+      padding: 0;
+    }
+    .btn {
+      flex: 1 1 auto;
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
+      text-transform: uppercase;
+      transition: 0.5s;
+      background-size: 200% auto;
+      color: white;
+      text-decoration: none;
+      box-shadow: 0 0 20px #eee;
+      border-radius: 10px;
+      font-size: 1.5em;
+      font-family: "Solway", serif;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      background-position: right center; /* change the direction of the change here */
+    }
+
+    .btn-hero {
+      background-image: linear-gradient(
+        to right,
+        #fbad16 0%,
+        #f56a44 51%,
+        #fbad16 100%
+      );
+    }
+  }
+}
+
+.content {
+  flex: 1;
+  background: $white;
+}
+.sidebar {
+  flex: 0 1 500px;
+  background: #b4b4b4;
+}
+
+footer {
+  background: $dkgray;
+  color: $white;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 2em;
+  height: 100px;
+
+  div {
+    position: relative;
+    flex: 1 1 0px;
+    padding: 1em 6em;
+
+    p {
+      font-family: "Solway", serif;
+      font-weight: 400;
+      font-size: 0.8em;
+      color: $white;
+      margin: 0;
+      margin-bottom: 0.5em;
+      padding: 0;
+    }
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .flex-container {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .flex-container {
+    display: flex;
+  }
+}
