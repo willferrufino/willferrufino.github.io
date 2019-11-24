@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://willferrufino.github.io/willferrufino.github.io",
+  "homepage": "https://github.com/willferrufino/willferrufino.github.io",
   "dependencies": {
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
