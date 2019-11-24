@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/willferrufino.github.io/static/css/main.52ba1820.chunk.css",
-    "main.js": "/willferrufino.github.io/static/js/main.c9fbc34d.chunk.js",
-    "main.js.map": "/willferrufino.github.io/static/js/main.c9fbc34d.chunk.js.map",
-    "runtime-main.js": "/willferrufino.github.io/static/js/runtime-main.e6df6ac9.js",
-    "runtime-main.js.map": "/willferrufino.github.io/static/js/runtime-main.e6df6ac9.js.map",
-    "static/js/2.20a7abf4.chunk.js": "/willferrufino.github.io/static/js/2.20a7abf4.chunk.js",
-    "static/js/2.20a7abf4.chunk.js.map": "/willferrufino.github.io/static/js/2.20a7abf4.chunk.js.map",
-    "index.html": "/willferrufino.github.io/index.html",
-    "precache-manifest.cfaf676826a40b501401bd02d8b00434.js": "/willferrufino.github.io/precache-manifest.cfaf676826a40b501401bd02d8b00434.js",
-    "service-worker.js": "/willferrufino.github.io/service-worker.js",
-    "static/css/main.52ba1820.chunk.css.map": "/willferrufino.github.io/static/css/main.52ba1820.chunk.css.map",
-    "static/media/App.scss": "/willferrufino.github.io/static/media/hero-citrus.a354edc4.png",
-    "static/media/logo.png": "/willferrufino.github.io/static/media/logo.0baa4df5.png"
+    "main.css": "/willferrufino/willferrufino.github.io/static/css/main.373c17b7.chunk.css",
+    "main.js": "/willferrufino/willferrufino.github.io/static/js/main.c85c5b2c.chunk.js",
+    "main.js.map": "/willferrufino/willferrufino.github.io/static/js/main.c85c5b2c.chunk.js.map",
+    "runtime-main.js": "/willferrufino/willferrufino.github.io/static/js/runtime-main.2a00a0fa.js",
+    "runtime-main.js.map": "/willferrufino/willferrufino.github.io/static/js/runtime-main.2a00a0fa.js.map",
+    "static/js/2.20a7abf4.chunk.js": "/willferrufino/willferrufino.github.io/static/js/2.20a7abf4.chunk.js",
+    "static/js/2.20a7abf4.chunk.js.map": "/willferrufino/willferrufino.github.io/static/js/2.20a7abf4.chunk.js.map",
+    "index.html": "/willferrufino/willferrufino.github.io/index.html",
+    "precache-manifest.17cfffa2e6709806c5c51e02c7c9ed0a.js": "/willferrufino/willferrufino.github.io/precache-manifest.17cfffa2e6709806c5c51e02c7c9ed0a.js",
+    "service-worker.js": "/willferrufino/willferrufino.github.io/service-worker.js",
+    "static/css/main.373c17b7.chunk.css.map": "/willferrufino/willferrufino.github.io/static/css/main.373c17b7.chunk.css.map",
+    "static/media/App.scss": "/willferrufino/willferrufino.github.io/static/media/hero-citrus.a354edc4.png",
+    "static/media/logo.png": "/willferrufino/willferrufino.github.io/static/media/logo.0baa4df5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6df6ac9.js",
+    "static/js/runtime-main.2a00a0fa.js",
     "static/js/2.20a7abf4.chunk.js",
-    "static/css/main.52ba1820.chunk.css",
-    "static/js/main.c9fbc34d.chunk.js"
+    "static/css/main.373c17b7.chunk.css",
+    "static/js/main.c85c5b2c.chunk.js"
   ]
 }
