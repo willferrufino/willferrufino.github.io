@@ -1,8 +1,8 @@
 {
+  "homepage": "http://willferrufino.github.io/",
   "name": "willferrufino.github.io",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://willferrufino.github.io/",
   "dependencies": {
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
